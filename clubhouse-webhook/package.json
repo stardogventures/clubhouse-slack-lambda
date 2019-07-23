@@ -10,6 +10,7 @@
     "url": "https://www.stardog.io"
   },
   "dependencies": {
+    "@slack/webhook": "^5.0.0",
     "add": "^2.0.6",
     "clubhouse-lib": "^0.7.0"
   }
