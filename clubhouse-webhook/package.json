@@ -1,0 +1,16 @@
+{
+  "name": "clubhouse-webhook",
+  "version": "1.0.0",
+  "description": "Process incoming webhooks from Clubhouse",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Ian White",
+    "email": "ian@stardog.io",
+    "url": "https://www.stardog.io"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "clubhouse-lib": "^0.7.0"
+  }
+}
